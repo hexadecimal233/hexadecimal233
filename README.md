@@ -1,4 +1,9 @@
 ### Hi there 👋
+[![bilibili](https://img.shields.io/badge/Bilibili-THEBESTKILLERTBK-66dd66 "bilibili")](https://space.bilibili.com/174927495 "bilibili")
+![subs](https://img.shields.io/badge/dynamic/json?color=66dd66&label=B%E7%AB%99%E5%85%B3%E6%B3%A8&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D174927495)
+
+![githubstars](https://img.shields.io/badge/dynamic/json?label=GitHub%20Total%20Stars&query=%24.stars&url=https%3A%2F%2Fgithub-star-counter.herokuapp.com%2Fuser%2FThebestkillerTBK)
+
 
 <!--
 **ThebestkillerTBK/ThebestkillerTBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
