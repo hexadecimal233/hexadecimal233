@@ -1,3 +1,17 @@
-![qwq](https://github-widgetbox.vercel.app/api/profile?username=Soda5601&data=followers,repositories,stars,commits)
+### 👋 Hello there!
 
+- 🔭 Currently studying at school
+- ✨ Making random stuff
 
+### 📱 You can reach me by...
+
+- 🚧 TBA
+
+### 🛠 Tools
+
+![My Skills](https://skillicons.dev/icons?i=discord,git,github,gitlab,idea,java,js,nodejs,py,&theme=light)
+
+### 📈 Stats
+
+![qwq](https://github-readme-stats.vercel.app/api?username=Soda5601&show_icons=true)
+![qwq](https://github-readme-stats.vercel.app/api/top-langs/?username=Soda5601&layout=compact)
