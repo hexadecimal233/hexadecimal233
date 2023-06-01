@@ -13,5 +13,5 @@
 
 ### 📈 Stats
 
-![qwq](https://github-readme-stats.vercel.app/api?username=Soda5601&show_icons=true)
-![qwq](https://github-readme-stats.vercel.app/api/top-langs/?username=Soda5601&layout=compact)
+![qwq](https://github-readme-stats.vercel.app/api?username=Fiz-Vector&theme=dracula&show_icons=true)
+![qwq](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiz-Vector&theme=dracula&layout=compact)
