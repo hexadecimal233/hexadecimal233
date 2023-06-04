@@ -15,3 +15,4 @@
 
 ![qwq](https://github-readme-stats.vercel.app/api?username=Fiz-Vector&theme=dracula&show_icons=true)
 ![qwq](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiz-Vector&theme=dracula&layout=compact)
+![card](https://github.com/Fiz-Vector/netease-cloud-music-card/blob/main/card.svg)
