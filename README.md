@@ -5,9 +5,10 @@
 
 ### 📱 You can reach me by...
 
+- Discord: [ᴠ3ᴄᴛoʀ#5601](https://discord.com/users/590761803244634113)
 - 🚧 TBA
 
-### 🛠 Tools
+### 🛠 Tools and Languages
 
 ![My Skills](https://skillicons.dev/icons?i=discord,git,github,gitlab,idea,java,js,nodejs,py,&theme=light)
 
