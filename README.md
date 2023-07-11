@@ -7,7 +7,6 @@
 ### 📱 You can reach me by...
 
 - Discord: [@onlyrain233](https://discord.com/users/590761803244634113)
-- Emaail: TBA
 - 🚧 TBA
 
 ### 🛠 Tools and Languages
