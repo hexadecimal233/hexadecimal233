@@ -1,12 +1,13 @@
 ### 👋 Hello there!
 
-- 😶‍🌫️ Fiz_Vector here! (aka Soda5601)
+- 😶‍🌫️ FizVictor here! (or OnlyRain233)
 - 🔭 Currently studying at school
 - ✨ Making random stuff
 
 ### 📱 You can reach me by...
 
-- Discord: [ᴠ3ᴄᴛoʀ#5601](https://discord.com/users/590761803244634113)
+- Discord: [@onlyrain233](https://discord.com/users/590761803244634113)
+- Emaail: TBA
 - 🚧 TBA
 
 ### 🛠 Tools and Languages
