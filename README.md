@@ -4,7 +4,7 @@
 
 ### 🛠 Tools and Languages
 
-![My Skills](https://skillicons.dev/icons?i=discord,git,github,gitlab,idea,java,js,nodejs,py,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=git,github,idea,java,js,py,&theme=light)
 
 ### 📈 Stats
 
