@@ -1,13 +1,6 @@
 ### 👋 Hello there!
 
-- 😶‍🌫️ FizVictor here! (or OnlyRain233)
-- 🔭 Currently studying at school
-- ✨ Making random stuff
-
-### 📱 You can reach me by...
-
-- Discord: [@onlyrain233](https://discord.com/users/590761803244634113)
-- 🚧 TBA
+[My website](https://onlyra1n.top)
 
 ### 🛠 Tools and Languages
 
