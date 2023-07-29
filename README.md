@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-[My website](https://onlyra1n.top)
+Know more about me: [My website](https://onlyra1n.top)
 
 
 ### 📈 Stats
