@@ -13,9 +13,9 @@ Know more about me: [My website](https://onlyra1n.top)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   22 mins         █████████████████████▒░░░   85.71 %
-YAML       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown   29 mins         ██████████████████████▒░░   88.82 %
+YAML       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
