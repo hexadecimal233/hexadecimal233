@@ -13,11 +13,11 @@ Know more about me: [My website](https://onlyra1n.top)
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Markdown          11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-JSON              10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Java              8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Java Properties   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Groovy            16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+Markdown          13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+JSON              10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Java              8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Java Properties   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
 ```
 
 <!--END_SECTION:waka-->
