@@ -13,9 +13,7 @@ Know more about me: [My website](https://onlyra1n.top)
 <!--START_SECTION:waka-->
 
 ```txt
-Java       12 mins         █████████████████████▓░░░   86.75 %
-Markdown   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Groovy     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
