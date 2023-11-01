@@ -13,7 +13,7 @@ Know more about me: [My website](https://onlyra1n.top)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 15 mins    █████████████████████████   99.93 %
+Markdown     1 hr 1 min      █████████████████████████   99.93 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
