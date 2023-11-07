@@ -13,11 +13,11 @@ Know more about me: [My website](https://onlyra1n.top)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     42 mins         █████████████▓░░░░░░░░░░░   54.22 %
-TypeScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-YAML         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-Java         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Markdown          38 mins         ████████████▓░░░░░░░░░░░░   50.14 %
+TypeScript        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+YAML              12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+Java              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+JavaScript        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 ```
 
 <!--END_SECTION:waka-->
