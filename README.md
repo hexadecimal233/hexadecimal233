@@ -6,8 +6,8 @@ Always trying to make something cool!
 
 ## 📈 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Fiz-Victor&theme=dracula&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiz-Victor&theme=dracula&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=LLKawi&theme=dracula&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLKawi&theme=dracula&layout=compact)
 
 ## :hammer_and_wrench: Developing tools and services
 
@@ -38,6 +38,10 @@ Always trying to make something cool!
 
 <!--START_SECTION:waka-->
 
-
+```txt
+Markdown          2 mins          █████████████▓░░░░░░░░░░░   54.23 %
+TypeScript        1 min           ███████████░░░░░░░░░░░░░░   44.13 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
 
 <!--END_SECTION:waka-->
