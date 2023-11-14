@@ -39,9 +39,11 @@ Always trying to make something cool!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 mins          █████████████▓░░░░░░░░░░░   54.23 %
-TypeScript        1 min           ███████████░░░░░░░░░░░░░░   44.13 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown              42 mins         ███████████████████▓░░░░░   79.03 %
+Mixin Configuration   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+GitIgnore file        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TypeScript            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML                  0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
