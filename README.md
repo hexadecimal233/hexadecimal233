@@ -39,11 +39,11 @@ Always trying to make something cool!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown              42 mins         ███████████████████▓░░░░░   79.03 %
-Mixin Configuration   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-GitIgnore file        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-TypeScript            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-YAML                  0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown              44 mins         ███████████████▓░░░░░░░░░   62.57 %
+JSON                  9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Mixin Configuration   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Java                  4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+GitIgnore file        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
