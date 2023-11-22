@@ -39,11 +39,9 @@ Always trying to make something cool!
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                  9 mins          █████████████▓░░░░░░░░░░░   55.05 %
-Java                  4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
-Markdown              2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-Properties            0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Mixin Configuration   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+YAML         0 secs          █████████████▓░░░░░░░░░░░   55.29 %
+Markdown     0 secs          ███████████░░░░░░░░░░░░░░   43.66 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
