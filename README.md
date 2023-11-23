@@ -4,12 +4,14 @@ A senior high school student living in China.
 
 Always trying to make something cool!
 
+A star bot~ ≡ω≡
+
 ## 📈 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=LLKawi&theme=dracula&show_icons=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLKawi&theme=dracula&layout=compact)
 
-## :hammer_and_wrench: Developing tools and services
+## 🛠️ Developing tools and services
 
 ### Tools I mess with
 
