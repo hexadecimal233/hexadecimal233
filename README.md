@@ -39,9 +39,9 @@ Always trying to make something cool!
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         0 secs          █████████████▓░░░░░░░░░░░   55.29 %
-Markdown     0 secs          ███████████░░░░░░░░░░░░░░   43.66 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown     15 mins         ████████████████████████▓   99.19 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
