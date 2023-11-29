@@ -1,4 +1,4 @@
-## 👋 Hello there!
+## 👋 Ciallo～(∠・ω< )⌒★！!
 
 A senior high school student living in China. 
 
