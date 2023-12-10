@@ -41,9 +41,7 @@ A star bot~ ≡ω≡
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 mins          ███████████████░░░░░░░░░░   60.18 %
-Java         1 min           ████████▒░░░░░░░░░░░░░░░░   32.88 %
-TypeScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Markdown   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
