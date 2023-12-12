@@ -1,10 +1,12 @@
 ## 👋 Ciallo～(∠・ω< )⌒★！!
 
-A senior high school student living in China. 
+🏠 A senior high school student.
 
-Always trying to make something cool!
+🚀 Always trying to make something cool!
 
-A star bot~ ≡ω≡
+🍀 Feel free to contact me!
+
+⭐ Star bot~
 
 ## 📈 Stats
 
@@ -34,7 +36,6 @@ A star bot~ ≡ω≡
 ### Skills I want to learn / I'm learning
 
 ![114514](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
-
 
 ### ⏲️ My WakaTime stats
 
