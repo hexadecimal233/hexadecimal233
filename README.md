@@ -42,7 +42,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   20 mins         █████████████████████████   100.00 %
+Markdown   30 mins         █████████████████████████   99.91 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
