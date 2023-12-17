@@ -48,7 +48,5 @@ YAML       0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<div style="text-align: center;">
-    <h3>Visitor Count：</h3>
-    <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="Visitor Count">
-</div>
+<h3>Visitor Count：</h3>
+<img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
