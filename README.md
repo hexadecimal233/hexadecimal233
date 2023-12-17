@@ -46,3 +46,8 @@ Markdown   19 mins         █████████████████�
 ```
 
 <!--END_SECTION:waka-->
+
+<div style="text-align: center;">
+    <h3>Visitor Count：</h3>
+    <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="Visitor Count">
+</div>
