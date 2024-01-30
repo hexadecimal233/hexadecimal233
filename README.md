@@ -6,7 +6,9 @@
 
 🍀 Feel free to contact me!
 
-⭐ Star bot~
+⭐ I don't just do coding stuff here :D
+
+- ~~~~
 
 ## 📈 Stats
 
