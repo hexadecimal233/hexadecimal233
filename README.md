@@ -57,6 +57,3 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 
 <h3>Visitor Count：</h3>
 <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
-
-> "How do you learn coding?"
-> "It's simple as pressing Ctrl+C and Ctrl+V."
