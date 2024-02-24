@@ -14,8 +14,8 @@
 
 ## 📈 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=LLKawi&theme=dracula&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLKawi&theme=dracula&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
 
 ## 🛠️ Developing tools and services
 
