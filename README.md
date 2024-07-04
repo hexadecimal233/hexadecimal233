@@ -10,7 +10,9 @@
 
 ## 📱 How to Reach me
 
-- Maybe you should check my website! --> [https://onlyra1n.top/](https://onlyra1n.top/)
+- Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
+- QQ: 2593828650
+- Tell me more! You can find more about me on my blogs!
 
 ## 📈 Stats
 
