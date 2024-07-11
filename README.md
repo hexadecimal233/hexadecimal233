@@ -46,8 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   16 mins         ████████████████████░░░░░   79.80 %
-YAML       4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Python           5 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+TypeScript       4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Markdown         3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+GitIgnore file   1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+YAML             1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
 ```
 
 <!--END_SECTION:waka-->
