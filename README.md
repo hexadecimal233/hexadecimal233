@@ -1,12 +1,10 @@
 ## 👋 Ciallo～(∠・ω< )⌒★！!
 
-🏠 A senior high school student.
+🏠 Just a senior high school student.
 
 🚀 Always trying to make something cool!
 
 🍀 Feel free to contact me!
-
-⭐ I don't just do coding stuff here :D
 
 ## 📱 How to Reach me
 
@@ -53,6 +51,10 @@ YAML       4 mins          █████░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### 🎵 Music I listen to
+
+![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
 
 <h3>Visitor Count：</h3>
 <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
