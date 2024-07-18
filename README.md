@@ -1,6 +1,6 @@
 ## 👋 Ciallo～(∠・ω< )⌒★！!
 
-🏠 Just a senior high school student.
+🏠 A senior high school student.
 
 🚀 Always trying to make something cool!
 
@@ -10,7 +10,6 @@
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
-- Tell me more! You can find more about me on my blogs!
 
 ## 📈 Stats
 
