@@ -34,11 +34,11 @@
 
 ### Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=java,js,py,cs,markdown)
+![Languages](https://skillicons.dev/icons?i=java,js,typescript,vue,py,cs,markdown)
 
 ### Skills I want to learn / I'm learning
 
-![114514](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,php,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
+![114514](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
 
 ### ⏲️ My WakaTime stats
 
