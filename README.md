@@ -2,7 +2,7 @@
 
 🏠 A senior high school student.
 
-🚀 Always trying to make something cool!
+🚀 Always trying to do something cool!
 
 🍀 Feel free to contact me!
 
@@ -26,12 +26,14 @@
 &nbsp;
 ![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
 &nbsp;
-![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)
+![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=git&color=4abf8a)
 &nbsp;
-![NPM](https://img.shields.io/badge/NPM-PNPM-white?style=flat-square&logo=Git&color=4abf8a)
+![PNPM](https://img.shields.io/badge/NodeJS-PNPM-white?style=flat-square&logo=npm&color=4abf8a)
+&nbsp;
+![Figma](https://img.shields.io/badge/Collab-Figma-white?style=flat-square&logo=npm&color=4abf8a)
 &nbsp;
 
-### ⚙ Services I use
+### ⚙ Dev Services
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions)
 
@@ -39,11 +41,11 @@
 
 ![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs)
 
-### ✨ Unused skill points
+### ✨ (Unused) Skill points
 
-![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,figma,godot,ae,ps,pr,unity,rust,mysql)
+![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,rust,mysql)
 
-### ⏲️ My WakaTime stats
+### ⏲️ WakaTime stats
 
 <!--START_SECTION:waka-->
 
