@@ -28,18 +28,20 @@
 &nbsp;
 ![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)
 &nbsp;
+![NPM](https://img.shields.io/badge/NPM-PNPM-white?style=flat-square&logo=Git&color=4abf8a)
+&nbsp;
 
-### Services I use
+### ⚙ Services I use
 
-![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle)
+![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions)
 
-### Tech Stack
+### 📦 Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs)
 
-### My unused skill points
+### ✨ Unused skill points
 
-![114514](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,figma,godot,ae,ps,pr,unity,rust,mysql)
+![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,figma,godot,ae,ps,pr,unity,rust,mysql)
 
 ### ⏲️ My WakaTime stats
 
@@ -55,7 +57,7 @@ TypeScript     7 mins          ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 🎵 Music I listen to
+### 🎵 Music stats
 
 ![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
 
