@@ -1,4 +1,4 @@
-## 👋 Ciallo～(∠・ω< )⌒★！!
+## 👋 Ciallo ～(∠・ω< )⌒★！!
 
 🏠 A senior high school student.
 
@@ -26,7 +26,8 @@
 &nbsp;
 ![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
 &nbsp;
-![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
+![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)
+&nbsp;
 
 ### Services I use
 
@@ -34,11 +35,11 @@
 
 ### Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=java,js,typescript,vue,py,cs,markdown)
+![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs)
 
-### Skills I want to learn / I'm learning
+### My unused skill points
 
-![114514](https://skillicons.dev/icons?i=ae,aws,gcp,nginx,mongodb,blender,c,cpp,cmake,figma,godot,ps,pr,ai,unity)
+![114514](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,figma,godot,ae,ps,pr,unity,rust,mysql)
 
 ### ⏲️ My WakaTime stats
 
