@@ -6,7 +6,7 @@
 
 🍀 Feel free to contact me!
 
-## 📱 How to Reach me
+## 📱 How to reach me
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
@@ -33,17 +33,17 @@
 ![Figma](https://img.shields.io/badge/Collab-Figma-white?style=flat-square&logo=npm&color=4abf8a)
 &nbsp;
 
-### ⚙ Dev Services
+### ⚙ Dev services
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions)
 
-### 📦 Tech Stack
+### 📦 Tech stack
 
-![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs)
+![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust)
 
-### ✨ (Unused) Skill points
+### ✨ Free skill points
 
-![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,rust,mysql)
+![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,mysql)
 
 ### ⏲️ WakaTime stats
 
@@ -55,7 +55,7 @@ Markdown   0 secs          █████████████████�
 
 <!--END_SECTION:waka-->
 
-### 🎵 Music stats
+### 🎵 Other stats
 
 ![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
 
