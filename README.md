@@ -10,7 +10,6 @@
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
-
 ## 📈 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
@@ -41,7 +40,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust)
 
-### ✨ Free skill points
+### ✨ Learning skill points
 
 ![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,mysql)
 
