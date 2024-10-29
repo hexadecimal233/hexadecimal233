@@ -49,8 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other       7 mins          ██████████████▒░░░░░░░░░░   56.93 %
-GDScript3   5 mins          ██████████▓░░░░░░░░░░░░░░   43.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
