@@ -10,6 +10,7 @@
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
+
 ## 📈 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
@@ -36,11 +37,11 @@
 
 ![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions)
 
-### 📦 Tech stack
+### 📦 Tech stack / Skill points
 
 ![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust)
 
-### ✨ Learning skill points
+### ✨ Learning
 
 ![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,mysql)
 
@@ -61,6 +62,7 @@ Git Config   12 mins         ▓░░░░░░░░░░░░░░░░
 ### 🎵 Other stats
 
 ![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
+![GPG Public Key](https://github.com/hexadecimal233.gpg)
 
 <h3>Visitor Count：</h3>
 <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
