@@ -1,6 +1,6 @@
-## 👋 Ciallo ～(∠・ω< )⌒★！!
+## 📦 Who I am
 
-🏠 A senior high school student.
+🏠 A senior high student.
 
 🚀 Always trying to do something cool!
 
@@ -10,11 +10,13 @@
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
+- Discord: hexadecimal233
 
 ## 📈 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Developing tools and services
 
@@ -62,7 +64,6 @@ Git Config   12 mins         ▓░░░░░░░░░░░░░░░░
 ### 🎵 Other stats
 
 ![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
-
 
 <h3>Visitor Count：</h3>
 <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
