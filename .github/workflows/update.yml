@@ -20,10 +20,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.steam.svg
-          token: NOT_NEEDEDSTEAM
+          token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "0"
+          plugin_steam_user: "76561198843801051"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
