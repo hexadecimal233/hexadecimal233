@@ -52,11 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             50 mins         ███████████████████▒░░░░░   76.69 %
-JavaScript       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Markdown         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-XML              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-C#               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
