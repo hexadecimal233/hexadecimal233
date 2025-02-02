@@ -6,11 +6,14 @@
 
 🍀 Feel free to contact me!
 
+🛜 Full-stack, Modding, Reverse engineering, Server operation, Cybersecurity
+
 ## 📱 How to reach me
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
 - Discord: hexadecimal233
+- Telegram: @hexadecimal233 (less frequent)
 
 ## 📈 Stats
 
@@ -22,26 +25,15 @@
 
 ### Tools I mess with
 
-![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)
-&nbsp;
-![VSCode](https://img.shields.io/badge/Editor-Visual_Studio_Code-white?style=flat-square&logo=visualstudiocode&color=4abf8a)
-&nbsp;
-![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
-&nbsp;
-![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=git&color=4abf8a)
-&nbsp;
-![PNPM](https://img.shields.io/badge/NodeJS-PNPM-white?style=flat-square&logo=npm&color=4abf8a)
-&nbsp;
-![Figma](https://img.shields.io/badge/Collab-Figma-white?style=flat-square&logo=npm&color=4abf8a)
-&nbsp;
+![Services](https://skillicons.dev/icons?i=pnpm,git,gradle,idea,visualstudio,vscode,ai,pr,ae,ps)
 
 ### ⚙ Dev services
 
-![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions)
+![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions,figma)
 
 ### 📦 Tech stack / Skill points
 
-![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust)
+![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust,arduino,regex)
 
 ### ✨ Learning
 
