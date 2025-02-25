@@ -1,12 +1,22 @@
-## 📦 Who I am
+<div style="text-align: center;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    
+    animation: fadeIn 1s ease-in-out;
 
-🏠 A senior high student.
+    fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
 
-🚀 Always trying to do something cool!
+"> Hello There! </div>
 
-🍀 Feel free to contact me!
+🚀 This is Hexzii⭐!
 
-🛜 Full-stack, Modding, Reverse engineering, Server operation, Cybersecurity
+🛜 Full-stack, Modding, Reverse engineering, Cybersecurity
+
+[🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
 
 ## 📱 How to reach me
 
@@ -19,7 +29,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Developing tools and services
 
@@ -60,5 +70,3 @@ IDEA_MODULE      4 mins          █░░░░░░░░░░░░░░�
 
 <h3>Visitor Count：</h3>
 <img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
-
-[🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
