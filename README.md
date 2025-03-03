@@ -1,20 +1,10 @@
-<div style="text-align: center;
-    font-size: 24px;
-    font-weight: 900;
-    font-family: 'Courier New', Courier, monospace;
-    
-    animation: fadeIn 1s ease-in-out;
+<h1 align="center"> Hello There! </h1>
 
-    fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-
-"> Hello There! </div>
+<!-- Fancier? or more plain -->
 
 🚀 This is Hexzii⭐!
 
-🛜 Full-stack, Modding, Reverse engineering, Cybersecurity
+🛜 I'm a full-stack developer, modder, and reverse engineer.
 
 [🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
 
@@ -62,6 +52,14 @@ CSV          24 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<!--
+
+### My projects
+
+... TODO: Add projects?
+
+-->
 
 ### 🎵 Other stats
 
