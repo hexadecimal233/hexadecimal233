@@ -1,14 +1,14 @@
-<h1 align="center"> Hello There! </h1>
-
-<!-- Fancier? or more plain -->
+<h2 align="center">  Hello There 👋 </h2>
 
 🚀 This is Hexzii⭐!
 
-🛜 I'm a full-stack developer, modder, and reverse engineer.
+🛜 I'm a full-stack developer, modder, and (unskilled) reverse engineer.
 
 [🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
 
-## 📱 How to reach me
+## 📱 Reach me
+
+👉 Feel free to DM me! 👈
 
 - Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
 - QQ: 2593828650
