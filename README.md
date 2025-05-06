@@ -1,4 +1,8 @@
-<h2 align="center">  Hello There 👋 </h2>
+<p align="center">
+<img src="./Frame 10.svg" alt="banner">
+</p>
+
+## 👋 Hi There
 
 🚀 This is Hexzii⭐!
 
