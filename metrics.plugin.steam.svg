@@ -22,15 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAABQYHAgMECP/EACoQAAIBBAECBQUBAQEAAAAAAAECAwAEBREGEiEHEzFBURQiYXGBMkIz/8QAGgEBAAMBAQEAAAAAAAAAAAAABAIDBQEABv/EACURAAICAgEEAgIDAAAAAAAAAAECAAMEESEFEhMxI0EUYSJicf/aAAwDAQACEQMRAD8A8wQQT3LBYImdvxRS54zlYYFka2crrfYelNXhrb2rW81wV3MN9Cnvs0Sts7fWl0Ezlq0dlNIUWQjQoN2TYr9uuBNBcdPB5Xb3JUR5ZO+x9CPisQOpx+TVZ5jwcXtmcth0Bk1sxL7j5qVOjwuwcacHTDXoavovS9dqeYJzr+Ky88Q8K+OZfBOt9dMMi8IeOQSaRSR7iofkLY2ORurZWDrDKyBh76OqbOG5bK5G4hxENyY4pT0lvcD91eOMeE3DsjbmLIx3DTkfeRLok/NGS96W7bT79TCry3wnKXvvfqeUHXudndY+gAp98XeELwrkUlraOZLR+6EnegfakNh6AHt809Sp5Jmyjl17x6hjj2ZusHeebagOW7dJGxRnlPLb3kNlBBcwKhiYkdK6pTs5Viu4nf8Ayp2d0yx39s5WRI1IJ16VEYyWWBtczrL5TqH/AA15hPjrj6HJFmtZftDN/wA0e8RuJ4/J2pyeFkjMpG2jX/v9Umx5i1B6/LjDnsAV/wA/mm/ifGs1yu1e8trgWWNTszyDs/yBQM3Fqw7fymftH3+4SzAuuuVqW9fUmvGb2XCZyKeWNisDdUij11VexPL7NWF2mT8kE9QhZj1E/Fbsl4UXaYp77EX1tcSL3MPRtnNT+6kNldyWuTsPJvEUbj6QDr5qdNmNnn42kc3o65LBrRyJp8UeVzcuzX1CRt5MShB+de9I5BU9wQD808nIwIrH6ULoemhQTkF3YXsCvbgJMD3UVpihaRoHcXVUKkCA8RfIJo0yCOFYwNfaDQdHAlUn0B70wyptEb4AP8qdabbS8ywDXqYWtruzdnXRPox96vPEMna3PD8Qto4ZLeY/UW0Z6WYaqLWJD2Y2wQAnSN6k0R49g8hyXKfS4P6iGLsJZ0YhE+Say+r463r8ja1E47lTLZ4fXFuniTmY8JcSNjvpUaQTOXCN7gfBqScuvIsxzzI3igGIHymb2fR9B+aZOQ5q34zi14vw3qushN9lzOvdmJ9Rv90q5biF/hcBHkcvJ9JcSsTBZv8A+jP7n+0HpirXf5H4B4H719y21dzmuIYY5g6gaHsaTM9bfTZBwBoMOoa/NM4LOiGQnqUAsKBcsfeQVQO4UGvo25UmBPECt2IozZXJe26ZP1QXXeilncwrB0ydjUaiRwDqeXiELKRBdxm6VmslO2VTpj/asGL8TOO43DCwx+Bu/JI07ROA5/tQp7oB/t30/utsORaFx5fYfPtRMzp9OYdudy6q9VMuWL8TuOWDMI+KXKqTvznKlt/ulzxT5HYcpvsbeWKTx3StqaOR9hE12IHtU3bNSdOtqw+NVy3GQZz1ICGPv8/iqKOkYuNcLUJ3/pnWv7ozNMNv5X3GlHIPI127S76vzRLH5NYGLt37UMvrg3Ny0oXQrSffd/Uw7Hc//9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABgcEBQgDAQD/xAAtEAABAwMCBgEDBAMAAAAAAAABAgMEAAURBhIHEyExQVEiCBRhFSNCcTJSgf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAIhEAAgEFAAICAwAAAAAAAAAAAAECAxESIUEiMTJRYXGh/9oADAMBAAIRAxEAPwBMXCZAaUG7WS4pXdecgVAlW5pO177lDildSE+Kh7cI7BK/Qr4NFONiyQe6T3qmVbP5L9cFxhj6Z1Q2CrBBNWCbYOVzA8nPqoreMfI7RXUJGM7lBPvNBFx6gnc8Uxy1bSoYrtEYU7NaSUktqOCRXimgpW45xjpVpp59uPcUolEctZASTXauaX9qs/6ZzQcqS6n/AB80CTmVx7g+1ISW15Kgk+vFausWloOr9HhyNhE5sHaoecdqQHE+XGlXNuK3H5FxiK2Ok/ySOgpjjdaAyAJsnIJ7mphaKWkEdyagsrC30JHuiGMyHWTn+NJWwznD2h5kloqSDk0W6I0+nVGqlW8NFCVJG31USwW3nSAnbkead3BnRr7E2Td30csIT+2e3WulLFWHU4byENdLO9bbtMt0ltSXWVnGfIz0qFKZygFDZ3I6hX5rRfGLSKJLrV5iJAIOHiB4oNsOlEXKBcYq0AL5W9pWPJrFNNBujuyLr6fdSLjXBqI84Nkj4YPigH6g7J+k8SJS0gbH20qBA99akaQbcsd9aS+FJ5buAf8AtGH1RWpS2bNe0dUvJSgn+k1VRak7PqIq0cN/RnCPHLExKFAgjqCfNEln+a1JJ61UNPpdhFL4zIT1BFWmm3WluqafPLGOij7pCST10aggn3N6zWnnxGCs5wsgeKKOFd11PqDU0eDdHHYTZCVMDqlK8+/fSrHhhFgzb+YN1SlUdYARu6hRp8RLZDjSmVoitpcYPwWlIBx4pUqkY3TK405SWUWTpFvQ/bnIT43IUjaon3QI2iLpCJcLjdyERY6dxPbKfFMtHyG7OSTkiqLWmnYupLI9Alj9lwYVjz+KmjLjGqXEIG5XNm9yHJEOC7GUs7m1L6hY8Yo6uCUa34aSLDguXNlGWDnPy9V14qMxdHcM4saKy2JRJQ0spG4YHul3wu1h+jhS0IU861+4TnOSe4qqMmvKPCKv5e/Yk2U5XtPc+alrbXFc2rPxUB2qLHOWh/tnvUqQVIWlbh3AAdKYscHdb/gCD7h7dURZsdchZ5QV8lZ6pFausLgkQWFrWl5tQBQ8nsfxWRGLFI+yZudp+SFjDjJ6npTM4S68etDxtVyCxGWfjvOdhpVag7lFCtlHFGikoAzgg9OmK8eZ5o2nt5UOwoatGs7fPnCFuCXifj171c3OQty2PqYVsSkELz3xSFRl1GSk4v8AIg/qUv7N0nRLRb18wQsOOuJ7YI7Uo9Fc5p95xCFFDXyJ8K/FNfWVkZb1FapD2Ps5j5bfJ7hP91RX2C7oHV0i12hlMyLPZSpCindnPXAz5qxQaskTuaZ//9k=" alt="" />
                             <div class="about">
-                                <div class="name">Town of Salem 2</div>
+                                <div class="name">星空列车与白的旅行</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Casual, RPG, Strategy, Free To Play
+                                        Adventure
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        128 hours played
+                                        4 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -46,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 15 Jun 2025
+                                        Last played on 22 Jun 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -55,7 +55,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            140 / 450 achievements unlocked
+                                            7 / 12 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
