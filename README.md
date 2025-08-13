@@ -14,7 +14,7 @@
 
 👉 Feel free to DM me! 👈
 
-- Mail: [contact@onlyra1n.top](mailto:contact@onlyra1n.top)
+- Mail: [hexzii@nichijou.moe](mailto:hexzii@nichijou.moe)
 - QQ: 2593828650
 - Discord: hexadecimal233
 - Telegram: @hexadecimal233 (less frequent)
@@ -29,19 +29,19 @@
 
 ### Tools I mess with
 
-![Services](https://skillicons.dev/icons?i=pnpm,git,gradle,idea,visualstudio,vscode,ai,pr,ae,ps)
+![Services](https://skillicons.dev/icons?i=pnpm,bun,git,gradle,idea,androidstudio,visualstudio,vscode,neovim,postman,ai,ae,ps)
 
-### ⚙ Dev services
+### ⚙ Dev services & Devices
 
-![Services](https://skillicons.dev/icons?i=github,vercel,cloudflare,gradle,githubactions,figma)
+![Services](https://skillicons.dev/icons?i=arduino,docker,bash,github,npm,vercel,cloudflare,gradle,githubactions,figma)
 
 ### 📦 Tech stack / Skill points
 
-![Languages](https://skillicons.dev/icons?i=java,html,css,js,typescript,vue,py,cs,rust,arduino,regex)
+![Languages](https://skillicons.dev/icons?i=java,nodejs,html,css,js,typescript,vue,nuxtjs,astro,py,cs,dotnet,rust,markdown,regex,tauri)
 
 ### ✨ Learning
 
-![sp](https://skillicons.dev/icons?i=gcp,nginx,mongodb,blender,cpp,cmake,godot,ae,ps,pr,unity,mysql)
+![sp](https://skillicons.dev/icons?i=mongodb,blender,cpp,godot,unity,dart,go,kotlin,latex,nix,opencv,wasm,react,qt)
 
 ### ⏲️ WakaTime stats
 
@@ -71,4 +71,4 @@ YAML         8 mins          ▓░░░░░░░░░░░░░░░░
 ![steam](./metrics.plugin.steam.svg)
 
 <h3>Visitor Count：</h3>
-<img src="https://moe-counter.glitch.me/get/@6475578645547358?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
+<img src="https://count.getloli.com/get/@6475578645547358_hm?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
