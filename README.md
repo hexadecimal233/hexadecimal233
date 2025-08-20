@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Frame 10.svg" alt="banner">
+<img src="./logo.png" alt="banner">
 </p>
 
 ## 👋 Hi There
