@@ -27,21 +27,26 @@
 
 ## 🛠️ Developing tools and services
 
+<!--See:https://github.com/hexadecimal233/homepage-new-->
+<!--START_SECTION:skillicons-->
+
 ### Tools I mess with
 
-![Services](https://skillicons.dev/icons?i=pnpm,bun,git,gradle,idea,androidstudio,visualstudio,vscode,neovim,postman,ai,ae,ps)
+![Icons](https://skillicons.dev/icons?i=pnpm,bun,git,gradle,idea,androidstudio,visualstudio,vscode,neovim,postman,ai,ae,ps)
 
 ### ⚙ Dev services & Devices
 
-![Services](https://skillicons.dev/icons?i=arduino,docker,bash,github,npm,vercel,cloudflare,gradle,githubactions,figma)
+![Icons](https://skillicons.dev/icons?i=arduino,docker,bash,github,npm,vercel,cloudflare,gradle,githubactions,figma)
 
 ### 📦 Tech stack / Skill points
 
-![Languages](https://skillicons.dev/icons?i=java,nodejs,html,css,js,typescript,vue,nuxtjs,astro,py,cs,dotnet,rust,markdown,regex,tauri)
+![Icons](https://skillicons.dev/icons?i=java,nodejs,html,css,js,typescript,vue,nuxtjs,astro,py,cs,dotnet,rust,markdown,regex,tauri)
 
 ### ✨ Learning
 
-![sp](https://skillicons.dev/icons?i=mongodb,blender,cpp,godot,unity,dart,go,kotlin,latex,nix,opencv,wasm,react,qt)
+![Icons](https://skillicons.dev/icons?i=mongodb,blender,cpp,godot,unity,dart,go,kotlin,latex,nix,opencv,wasm,react,qt)
+
+<!--END_SECTION:skillicons-->
 
 ### ⏲️ WakaTime stats
 
