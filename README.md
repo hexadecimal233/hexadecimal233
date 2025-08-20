@@ -30,7 +30,7 @@
 <!--See:https://github.com/hexadecimal233/homepage-new-->
 <!--START_SECTION:skillicons-->
 
-### Tools I mess with
+### 🛠️ Tools I mess with
 
 ![Icons](https://skillicons.dev/icons?i=pnpm,bun,git,gradle,idea,androidstudio,visualstudio,vscode,neovim,postman,ai,ae,ps)
 
