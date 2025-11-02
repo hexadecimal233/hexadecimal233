@@ -2,22 +2,21 @@
 <img src="./logo.png" alt="banner">
 </p>
 
-## 👋 Hi There
+## 👋 Me
 
-🚀 This is Hexzii⭐!
+If you've just found me, glad to see you...
 
-🛜 I'm a full-stack developer, modder, and (unskilled) reverse engineer.
-
+[🏠 Homepage](https://nichijou.moe)
 [🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
 
 ## 📱 Reach me
 
-👉 Feel free to DM me! 👈
-
 - Mail: [hexzii@nichijou.moe](mailto:hexzii@nichijou.moe)
 - QQ: 2593828650
 - Discord: hexadecimal233
-- Telegram: @hexadecimal233 (less frequent)
+- Telegram: @hexadecimal233
+
+> \* feel free to dm me!
 
 ## 📈 Stats
 
@@ -25,31 +24,33 @@
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
 [![trophies](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Developing tools and services
+## ⌨️ Development Setup
 
-<!--See:https://github.com/hexadecimal233/homepage-new-->
+<!-- See: https://github.com/hexadecimal233/homepage-new, icons from https://skillicons.dev -->
+<!--TODO: Badges for more stuff -->
 <!--START_SECTION:skillicons-->
 
 ### 🛠️ Tools I mess with
 
-![Icons](https://skillicons.dev/icons?i=pnpm,bun,git,gradle,idea,androidstudio,visualstudio,vscode,neovim,postman,ai,ae,ps)
+![Icons](https://skillicons.dev/icons?i=git,vscode,neovim,idea,androidstudio,visualstudio,,pnpm,postman,bash,,figma,ae,ps,ai,ableton,,debian,windows)
 
-### ⚙ Dev services & Devices
+### ⚙️ Dev tools & Devices
 
-![Icons](https://skillicons.dev/icons?i=arduino,docker,bash,github,npm,vercel,cloudflare,gradle,githubactions,figma)
+![Icons](https://skillicons.dev/icons?i=docker,github,vercel,cloudflare,githubactions,,markdown,regex,sqlite,postgres,bots)
 
 ### 📦 Tech stack / Skill points
 
-![Icons](https://skillicons.dev/icons?i=java,nodejs,html,css,js,typescript,vue,nuxtjs,astro,py,cs,dotnet,rust,markdown,regex,tauri)
+![Icons](https://skillicons.dev/icons?i=html,css,js,,nodejs,ts,tailwind,vue,nuxtjs,,py,flask,fastapi,,rust,tauri,arduino,,java,kotlin,cs,dotnet)
 
-### ✨ Learning
+### ✨ Studying
 
-![Icons](https://skillicons.dev/icons?i=mongodb,blender,cpp,godot,unity,dart,go,kotlin,latex,nix,opencv,wasm,react,qt)
+![Icons](https://skillicons.dev/icons?i=astro,bun,cpp,dart,go,godot,unity,blender,,latex,mongodb,nix,opencv,wasm,react,qt,,kubernetes,pytorch,arch,lit,p5js,redis,codepen,replit)
 
 <!--END_SECTION:skillicons-->
 
 ### ⏲️ WakaTime stats
 
+<!-- TODO: Move to a better visualizer -->
 <!--START_SECTION:waka-->
 
 ```txt
