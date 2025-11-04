@@ -54,11 +54,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Other                  23 hrs 4 mins   █████████████░░░░░░░░░░░░   52.43 %
-Kotlin                 6 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Java                   5 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-TypeScript             2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Markdown               1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Other                  25 hrs 37 mins  █████████████▒░░░░░░░░░░░   53.67 %
+Kotlin                 6 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Java                   5 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Markdown               2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+TypeScript             2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
