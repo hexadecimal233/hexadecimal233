@@ -54,11 +54,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Other        31 hrs 9 mins   █████████████████▓░░░░░░░   70.09 %
-Vue.js       6 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-TypeScript   2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-CSS          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JavaScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        33 hrs 41 mins  ██████████████████▓░░░░░░   74.44 %
+Vue.js       4 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+TypeScript   1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Markdown     1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+CSS          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
