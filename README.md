@@ -26,8 +26,7 @@ If you've just found me, glad to see you...
 
 ## ⌨️ Development Setup
 
-<!-- See: https://github.com/hexadecimal233/homepage-new, icons from https://skillicons.dev -->
-<!--TODO: Badges for more stuff -->
+<!-- See: https://github.com/hexadecimal233/homepage-new -->
 <!--START_SECTION:skillicons-->
 
 ### 🛠️ Tools I mess with
@@ -63,18 +62,14 @@ TypeScript             4 hrs 36 mins   ██▒░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--
-
+<!-- These are moved to my website
 ### My projects
-
-... TODO: Add projects?
-
--->
 
 ### 🎵 Other stats
 
-![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg)
+![netease](https://github.com/hexadecimal233/netease-cloud-music-card/blob/main/card.svg) 网易云风控搞的我疯狂掉登录
 ![steam](./metrics.plugin.steam.svg)
+-->
 
 <h3>Visitor Count：</h3>
 <img src="https://count.getloli.com/get/@6475578645547358_hm?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
