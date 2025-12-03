@@ -53,11 +53,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Other             25 hrs 48 mins  █████████████████▓░░░░░░░   70.30 %
-Rust              2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Astro             1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JavaScript        1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-TypeScript        1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other             27 hrs 2 mins   ██████████████████▒░░░░░░   73.34 %
+Rust              2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Astro             1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JavaScript        1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TypeScript        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
