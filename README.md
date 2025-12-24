@@ -53,11 +53,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Other              22 hrs 59 mins  █████████████████████░░░░   84.04 %
-Python             1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Markdown           53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-TOML               42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-TypeScript         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other              22 hrs 10 mins  █████████████████████░░░░   84.31 %
+Python             1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Markdown           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+TOML               46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+INI                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
