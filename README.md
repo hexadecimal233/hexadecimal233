@@ -24,31 +24,6 @@ If you've just found me, glad to see you...
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
 [![trophies](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ⌨️ Development Setup
-
-<!-- See: https://github.com/hexadecimal233/homepage-new -->
-<!--START_SECTION:skillicons-->
-
-### 🛠️ Tools I mess with
-
-![Icons](https://skillicons.dev/icons?i=git,vscode,neovim,idea,androidstudio,visualstudio,,pnpm,postman,bash,,figma,ae,ps,ai,ableton,,debian,windows)
-
-### ⚙️ Dev tools & Devices
-
-![Icons](https://skillicons.dev/icons?i=docker,github,vercel,cloudflare,githubactions,,markdown,regex,sqlite,postgres,bots)
-
-### 📦 Tech stack / Skill points
-
-![Icons](https://skillicons.dev/icons?i=html,css,js,,nodejs,ts,tailwind,vue,nuxtjs,,py,flask,fastapi,,rust,tauri,arduino,,java,kotlin,cs,dotnet)
-
-### ✨ Studying
-
-![Icons](https://skillicons.dev/icons?i=astro,bun,cpp,dart,go,godot,unity,blender,,latex,mongodb,nix,opencv,wasm,react,qt,,kubernetes,pytorch,arch,lit,p5js,redis,codepen,replit)
-
-<!--END_SECTION:skillicons-->
-
-### ⏲️ WakaTime stats
-
 <!-- TODO: Move to a better visualizer -->
 <!--START_SECTION:waka-->
 
@@ -63,7 +38,6 @@ Vue          0 hrs 57 mins   ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- These are moved to my website
-### My projects
 
 ### 🎵 Other stats
 
