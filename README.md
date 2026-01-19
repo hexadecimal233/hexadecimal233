@@ -53,7 +53,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Unknown      38 hrs 47 mins  ███████████████▓░░░░░░░░░   62.88 %
+Typescript   8 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Svelte       6 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Rust         4 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Vue          0 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
