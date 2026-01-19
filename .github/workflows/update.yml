@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
       - uses: lowlighter/metrics@latest
