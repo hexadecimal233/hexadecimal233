@@ -28,11 +28,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Unknown      38 hrs 47 mins  ███████████████▓░░░░░░░░░   62.88 %
-Typescript   8 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Svelte       6 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-Rust         4 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Vue          0 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Unknown      38 hrs 18 mins  ███████████████▓░░░░░░░░░   63.15 %
+Svelte       7 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Typescript   6 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Rust         4 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Markdown     1 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
