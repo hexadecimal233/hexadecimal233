@@ -28,11 +28,11 @@ If you've just found me, glad to see you...
 <!--START_SECTION:waka-->
 
 ```txt
-Typescript   24 hrs 6 mins   █████████████▒░░░░░░░░░░░   53.21 %
-Python       5 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Json         3 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-CSS          3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Markdown     2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Typescript   24 hrs 18 mins  ██████████▒░░░░░░░░░░░░░░   41.92 %
+CSS          12 hrs 19 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
+Python       5 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+Json         4 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Unknown      3 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
