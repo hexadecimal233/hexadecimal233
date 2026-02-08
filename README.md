@@ -1,30 +1,54 @@
 <p align="center">
 <img src="./logo.png" alt="banner">
+<sub>logo by #MoRe</sub>
 </p>
 
-## 👋 Me
+<div width=100% align=center>
+  <h4>hush...!</h4>
+  <a href="hhttps://nichijou.moe"><kbd>&nbsp;<br>&nbsp
+  🏠 homepage
+  &nbsp;<br>&nbsp;</kbd></a>
+  <a href="https://github.com/hexadecimal233.gpg"><kbd>&nbsp;<br>&nbsp
+  🔑 gpg public key
+  &nbsp;<br>&nbsp;</kbd></a>
+</div>
 
-If you've just found me, glad to see you...
+---
 
-[🏠 Homepage](https://nichijou.moe)
-[🔑 GPG Public Key](https://github.com/hexadecimal233.gpg)
+<details>
+  <summary>
+    <h2>📱 reach me </h2>
+  </summary>
+  <ul>
+    <li>mail: <a href="mailto:hexzii@nichijou.moe">hexzii@nichijou.moe</a></li>
+    <li>qq: 2593828650</li>
+    <li>discord: hexadecimal233</li>
+    <li>Telegram: @hexadecimal233</li>
+  </ul>
+</details>
 
-## 📱 Reach me
+> \* dms are open!
 
-- Mail: [hexzii@nichijou.moe](mailto:hexzii@nichijou.moe)
-- QQ: 2593828650
-- Discord: hexadecimal233
-- Telegram: @hexadecimal233
+## 📈 stats
 
-> \* feel free to dm me!
+<div width=100% align=center>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=github_dark&show_icons=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=default&show_icons=true">
+  <img alt="stats" src="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=default&show_icons=true" width="55%">
+</picture>
 
-## 📈 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=default&layout=compact">
+  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact" width="55%">
+</picture>
+</div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=hexadecimal233&theme=dracula&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexadecimal233&theme=dracula&layout=compact)
+
+<!-- TODO: Move to a better visualizer
 [![trophies](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- TODO: Move to a better visualizer -->
+ -->
 <!--START_SECTION:waka-->
 
 ```txt
@@ -45,5 +69,5 @@ Python       4 hrs 13 mins   ██░░░░░░░░░░░░░░░
 ![steam](./metrics.plugin.steam.svg)
 -->
 
-<h3>Visitor Count：</h3>
+<h3>visitor count：</h3>
 <img src="https://count.getloli.com/get/@6475578645547358_hm?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
