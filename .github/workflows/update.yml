@@ -2,6 +2,7 @@ name: Update stuff
 
 on:
   schedule:
+    # Runs every day
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,12 +14,17 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      # 1. Update Wakatime/Wakapi Stats
+      - name: Update Waka-Readme
+        uses: athul/waka-readme@master
         with:
           API_BASE_URL: https://wakapi.dev/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ░▒▓█
-      - uses: lowlighter/metrics@latest
+
+      # 2. Generate Steam Metrics SVG
+      - name: Steam Games Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.steam.svg
           token: NOT_NEEDED
@@ -28,3 +34,13 @@ jobs:
           plugin_steam_user: "76561198843801051"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
+
+      # 3. Generate General GitHub Metrics
+      - name: GitHub General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: hexadecimal233
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
