@@ -32,24 +32,21 @@
 ## 📈 stats
 
 <div width=100% align=center>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=github_dark&show_icons=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=default&show_icons=true">
-  <img alt="stats" src="https://github-readme-stats-fast.vercel.app/api?username=hexadecimal233&theme=default&show_icons=true" width="55%">
-</picture>
+<img alt="langs" src="./github-metrics.svg" width="55%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=default&layout=compact">
-  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact" width="55%">
+  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hexadecimal233&theme=github_dark&layout=compact" width="40%">
 </picture>
 </div>
-
 
 <!-- TODO: Move to a better visualizer
 [![trophies](https://github-profile-trophy.vercel.app/?username=hexadecimal233)](https://github.com/ryo-ma/github-profile-trophy)
  -->
 <!--START_SECTION:waka-->
+
+<br>
 
 ```txt
 Typescript        28 hrs 46 mins  ██████████████░░░░░░░░░░░   55.54 %
