@@ -47,11 +47,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 hrs 25 mins         ███████████▒░░░░░░░░░░░░░   44.98 %
-Astro      0 hrs 22 mins         █████████▓░░░░░░░░░░░░░░░   39.18 %
-Bash       0 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Unknown    0 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Json       0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown   0 hrs 5 mins          ████████████████████░░░░░   80.49 %
+Unknown    0 hrs 1 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Astro      0 hrs 0 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
 
 <!--END_SECTION:waka-->
