@@ -47,9 +47,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 hrs 5 mins          ████████████████████░░░░░   80.49 %
-Unknown    0 hrs 1 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Astro      0 hrs 0 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Markdown   0 hrs 5 mins          ███████████████████████▒░   92.72 %
+Astro      0 hrs 0 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->
