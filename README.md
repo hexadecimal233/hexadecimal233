@@ -47,8 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 hrs 5 mins          ███████████████████████▒░   92.72 %
-Astro      0 hrs 0 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
