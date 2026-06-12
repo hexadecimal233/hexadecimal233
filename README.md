@@ -47,7 +47,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Json    0 hrs 7 mins          █████████████████████████   100.00 %
+Jsonc   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
