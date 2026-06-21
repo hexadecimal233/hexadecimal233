@@ -47,7 +47,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Cheetah   0 hrs 3 mins          ██████████████▓░░░░░░░░░░   58.36 %
+Nushell   0 hrs 1 mins          ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+TOML      0 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Unknown   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
