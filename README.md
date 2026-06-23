@@ -51,6 +51,7 @@ Cheetah   0 hrs 3 mins          ██████████████▓░
 Nushell   0 hrs 1 mins          ███████▒░░░░░░░░░░░░░░░░░   29.37 %
 TOML      0 hrs 1 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
 Unknown   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Jsonc     0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
