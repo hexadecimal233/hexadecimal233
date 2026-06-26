@@ -15,20 +15,6 @@
 
 ---
 
-<details>
-  <summary>
-    <h2>📱 reach me </h2>
-  </summary>
-  <ul>
-    <li>mail: <a href="mailto:hexzii@nichijou.moe">hexzii@nichijou.moe</a></li>
-    <li>qq: 2593828650</li>
-    <li>discord: hexadecimal233</li>
-    <li>Telegram: @hexadecimal233</li>
-  </ul>
-</details>
-
-> \* dms are open!
-
 ## 📈 stats
 
 <div width=100% align=center>
