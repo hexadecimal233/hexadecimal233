@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nushell    0 hrs 2 mins          █████████████░░░░░░░░░░░░   52.10 %
-TOML       0 hrs 1 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Markdown   0 hrs 1 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Json       0 hrs 0 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
