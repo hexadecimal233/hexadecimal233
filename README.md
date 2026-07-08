@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          0 hrs 40 mins         █████████▒░░░░░░░░░░░░░░░   37.31 %
+Jsonc        0 hrs 31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+Nix          0 hrs 14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Git ignore   0 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Json         0 hrs 6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:waka-->
