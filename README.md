@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         12 hrs 5 mins         ████████████░░░░░░░░░░░░░   47.83 %
-Javascript   4 hrs 51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-Unknown      2 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Astro        1 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Markdown     1 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Rust         12 hrs 5 mins         ████████████▒░░░░░░░░░░░░   49.22 %
+Javascript   4 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+Unknown      2 hrs 45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Astro        1 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Markdown     0 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
