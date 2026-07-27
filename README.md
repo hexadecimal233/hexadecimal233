@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       5 hrs 12 mins         ██████████████████████▓░░   90.94 %
-Json       0 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Unknown    0 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Jsonc      0 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown   0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Jsonc   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
