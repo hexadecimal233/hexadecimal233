@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           0 hrs 24 mins         ██████████▓░░░░░░░░░░░░░░   42.16 %
-XML            0 hrs 8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Markdown       0 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-TSX            0 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-TOML           0 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
